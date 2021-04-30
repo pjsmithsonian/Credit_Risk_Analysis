@@ -51,7 +51,7 @@ Below is an overview for the results from each.
 
 
 ### Easy Ensemble AdaBoost Classifier
-![easy_ensemble_report](/Resources/easy_ensemble_report_report.PNG)
+![easy_ensemble_report](/Resources/easy_ensemble_report.PNG)
  - Balance Accuracy Score: 0.7887
  - Precision: .99
  - Recall/Sensitivity: .87
